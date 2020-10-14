@@ -1,0 +1,21 @@
+{
+  "name": "sistema-os-tdd-js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test-detail": "jest --coverage"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "dotenv": "^8.2.0",
+    "jest": "^26.5.3",
+    "loadash": "^1.0.0",
+    "path": "^0.12.7",
+    "puppeteer": "^5.3.1"
+  },
+  "devDependencies": {
+    "jest-puppeteer": "^4.4.0"
+  }
+}
